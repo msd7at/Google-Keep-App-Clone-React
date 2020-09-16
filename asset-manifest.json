@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Google-Keep-App-Clone-React/static/css/main.26abda62.chunk.css",
+    "main.js": "/Google-Keep-App-Clone-React/static/js/main.b0a6a985.chunk.js",
+    "main.js.map": "/Google-Keep-App-Clone-React/static/js/main.b0a6a985.chunk.js.map",
+    "runtime-main.js": "/Google-Keep-App-Clone-React/static/js/runtime-main.c726bb73.js",
+    "runtime-main.js.map": "/Google-Keep-App-Clone-React/static/js/runtime-main.c726bb73.js.map",
+    "static/js/2.c6e2a7cb.chunk.js": "/Google-Keep-App-Clone-React/static/js/2.c6e2a7cb.chunk.js",
+    "static/js/2.c6e2a7cb.chunk.js.map": "/Google-Keep-App-Clone-React/static/js/2.c6e2a7cb.chunk.js.map",
+    "index.html": "/Google-Keep-App-Clone-React/index.html",
+    "precache-manifest.d5cc24e9319a9ef1a883c318fc0faa14.js": "/Google-Keep-App-Clone-React/precache-manifest.d5cc24e9319a9ef1a883c318fc0faa14.js",
+    "service-worker.js": "/Google-Keep-App-Clone-React/service-worker.js",
+    "static/css/main.26abda62.chunk.css.map": "/Google-Keep-App-Clone-React/static/css/main.26abda62.chunk.css.map",
+    "static/js/2.c6e2a7cb.chunk.js.LICENSE.txt": "/Google-Keep-App-Clone-React/static/js/2.c6e2a7cb.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Google-Keep-App-Clone-React/static/media/logo.c6b0d882.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c726bb73.js",
+    "static/js/2.c6e2a7cb.chunk.js",
+    "static/css/main.26abda62.chunk.css",
+    "static/js/main.b0a6a985.chunk.js"
+  ]
+}
