@@ -1,3 +1,4 @@
+Live Page: https://msd7at.github.io/Google-Keep-App-Clone-React/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
